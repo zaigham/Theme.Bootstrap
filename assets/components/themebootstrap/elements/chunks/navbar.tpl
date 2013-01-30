@@ -6,7 +6,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</a>
-			<a class="brand" href="/">[[++site_name]]</a>
+			<a class="brand" href="[[++site_url]]">[[++site_name]]</a>
 			<div class="nav-collapse">
 				<ul class="nav">
 					[[Wayfinder?
